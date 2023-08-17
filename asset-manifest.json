@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bored/static/css/main.fb3e7fe2.css",
-    "main.js": "/bored/static/js/main.938f5109.js",
+    "main.js": "/bored/static/js/main.ca92eb97.js",
     "static/js/787.56ae01aa.chunk.js": "/bored/static/js/787.56ae01aa.chunk.js",
     "index.html": "/bored/index.html",
     "main.fb3e7fe2.css.map": "/bored/static/css/main.fb3e7fe2.css.map",
-    "main.938f5109.js.map": "/bored/static/js/main.938f5109.js.map",
+    "main.ca92eb97.js.map": "/bored/static/js/main.ca92eb97.js.map",
     "787.56ae01aa.chunk.js.map": "/bored/static/js/787.56ae01aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb3e7fe2.css",
-    "static/js/main.938f5109.js"
+    "static/js/main.ca92eb97.js"
   ]
 }
